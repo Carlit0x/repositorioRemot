@@ -11,6 +11,7 @@ este es un repositorio de ejemplo para mostrar el trabajo colaborativo y remoto
 - [@Victor Quisbert](https://github.com/vichofeo)
 - [@Roberto Marquez](https://github.com/rmarquezProdem)
 - [@Francisco Flores](https://github.com/franciscohf)
+- [@Carlos Menchaca](https://github.com/Carlit0x)
 
 ## variables de entorno
 
