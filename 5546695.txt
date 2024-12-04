@@ -1,0 +1,2 @@
+Git ayuda a los equipos de desarrollo para colaborar y gestionar el código fuente,
+manejo de versionamiento distribuido ayuda de gran manera
